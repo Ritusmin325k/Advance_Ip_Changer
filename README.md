@@ -265,7 +265,7 @@ Advance-IP-Changer/
 
 ## 📜 License
 
-Apache License © 2025 [Ritusmin Saikia](https://github.com/Ritusmin325k)
+Apache-2.0 License © 2025 [Ritusmin Saikia](https://github.com/Ritusmin325k)
 
 ---
 
