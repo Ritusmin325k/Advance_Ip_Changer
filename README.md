@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="200" height="200" alt="Advance IP Changer Logo">
+  <img src="assets/logo.png" width="300" height="300" alt="Advance IP Changer Logo">
 </p>
 
 <h1 align="center">Advance IP Changer</h1>
