@@ -9,14 +9,33 @@
 </p>
 
 ---
-
+## 📸 Screenshot
+<p align="center">
+  <img src="assets/screenshot.png" width="600">
+</p>
+---
 ### 🧠 Description
 
 **Advance IP Changer** is a lightweight Python-based tool designed to automatically change your public IP address at defined intervals using the Tor network.  
 It is ideal for developers, penetration testers, and privacy-focused users who need quick IP rotation from the terminal.
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Supported-green?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-Compatible-green?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Proot-Distro_Supported-yellow?logo=termux&logoColor=white">
+  <img src="https://img.shields.io/badge/Termux-Compatible-blue?logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/Tor-Integrated-purple?logo=torbrowser&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-Script-black?logo=gnu-bash&logoColor=white">
+  <a href="https://github.com/Ritusmin325k">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+  </a>
+  <a href="https://www.instagram.com/nullsenpai_31">
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-pink?logo=instagram">
+  </a>
+</p>
+---
 ### ⚙️ Features
 
 - 🌀 Auto IP rotation (configurable time interval)  
@@ -222,7 +241,12 @@ print(requests.get('https://api.ipify.org?format=text', proxies=proxies, timeout
 - **No systemd in Termux**: Start Tor manually or use Termux service helpers.
 
 ---
-
+## Demo video 📷 
+<p align="center">
+  <img src="https://img.shields.io/badge/Demo-Preview-red?logo=youtube&logoColor=white"><br>
+  <img src="assets/video.gif" alt="Demo Video" width="600">
+</p>
+---
 ## 📁 Files included
 
 ```
