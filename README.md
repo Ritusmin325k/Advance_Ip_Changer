@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" height="120" alt="Advance IP Changer Logo">
+  <img src="assets/logo.png" width="200" height="200" alt="Advance IP Changer Logo">
 </p>
 
 <h1 align="center">Advance IP Changer</h1>
@@ -14,7 +14,8 @@
   <img src="assets/screenshot.png" width="600">
 </p>
 ---
-### 🧠 Description
+
+## 🧠 Description
 
 **Advance IP Changer** is a lightweight Python-based tool designed to automatically change your public IP address at defined intervals using the Tor network.  
 It is ideal for developers, penetration testers, and privacy-focused users who need quick IP rotation from the terminal.
@@ -36,8 +37,8 @@ It is ideal for developers, penetration testers, and privacy-focused users who n
   </a>
 </p>
 ---
-### ⚙️ Features
 
+## ⚙️ Features
 - 🌀 Auto IP rotation (configurable time interval)  
 - 🌍 Uses the Tor network for anonymity  
 - 📊 Displays current IP before and after rotation  
@@ -247,8 +248,8 @@ print(requests.get('https://api.ipify.org?format=text', proxies=proxies, timeout
   <img src="assets/video.gif" alt="Demo Video" width="600">
 </p>
 ---
-## 📁 Files included
 
+## 📁 Files included
 ```
 Advance-IP-Changer/
 ├── advance_ip_changer.py
@@ -264,7 +265,7 @@ Advance-IP-Changer/
 
 ## 📜 License
 
-MIT License © 2025 [Ritusmin Saikia](https://github.com/Ritusmin325k)
+Apache License © 2025 [Ritusmin Saikia](https://github.com/Ritusmin325k)
 
 ---
 
